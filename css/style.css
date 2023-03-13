@@ -243,3 +243,17 @@ hr {
     margin-bottom: 0;
     padding-bottom: 20px;
 }
+
+/* -------- Media screen start---------- */
+
+@media (max-width: 376px) {
+    
+         .h1, h1 {
+            font-size: 2rem !important;
+        } 
+
+        .title::after {
+            transform: translateY(17px);
+        }
+    
+}
