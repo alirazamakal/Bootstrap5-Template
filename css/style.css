@@ -246,7 +246,7 @@ hr {
 
 /* -------- Media screen start---------- */
 
-@media (max-width: 376px) {
+@media (max-width: 595px) {
     
          .h1, h1 {
             font-size: 2rem !important;
